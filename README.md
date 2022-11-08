@@ -8,7 +8,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  <img src="https://profile-counter.glitch.me/shawon5ice/count.svg" />
 </p>
 <!---
 shawon5ice/shawon5ice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
